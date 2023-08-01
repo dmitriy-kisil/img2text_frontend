@@ -1,0 +1,4 @@
+.venv
+.env
+*.code-workspace
+.streamlit/secrets.toml
